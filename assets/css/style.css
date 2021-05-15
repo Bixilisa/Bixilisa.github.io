@@ -481,7 +481,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   transform: translate(-50%, -50%);
 }
 
-.social a:hover {
+footer .social a:hover {
   background-color: #ef8c69;
   color: #000;
   
