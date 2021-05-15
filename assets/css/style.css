@@ -483,6 +483,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 .social a:hover {
   color: #000;
+  background-color: #ef8c69;
 }
 
 /* Addition */
