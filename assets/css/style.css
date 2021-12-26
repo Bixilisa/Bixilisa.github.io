@@ -530,4 +530,5 @@ a.fw {
 
 a.block {
   display: block;
+  margin-bottom: 1rem;
 }
